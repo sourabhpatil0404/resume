@@ -1,1 +1,2 @@
 # resume
+- trial n error.
